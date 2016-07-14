@@ -1,0 +1,24 @@
+# ignore genereated stuff
+*.user
+
+# ignore stuff in build
+build/
+
+# ignore libgit2 extra stuff
+libgit2/*.docurium
+libgit2/.*
+libgit2/appveyor*
+libgit2/CODE_OF_CONDUCT.md
+libgit2/CONTRIBUTING.md
+libgit2/CONVENTIONS.md
+libgit2/CMakeLists.txt
+libgit2/docs/
+libgit2/examples/
+libgit2/git*
+libgit2/libgit2_clar.supp
+libgit2/libgit2.pc.in
+libgit2/Makefile*
+libgit2/PROJECTS.md
+libgit2/script/
+libgit2/tests/
+
